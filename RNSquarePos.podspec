@@ -1,17 +1,17 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNSquarePos"
-  s.version      = "1.0.13"
+  s.version      = "1.0.0"
   s.summary      = "RNSquarePos"
   s.description  = <<-DESC
-                  RNSquarePos
+  RNSquarePos
                    DESC
-  s.homepage     = "https://github.com/matix-io/react-native-square-pos"
+  s.homepage     = "https://github.com/reactnativ/react-native-sdk-test"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "connor@matix.io" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/matix-io/react-native-square-pos.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/reactnativ/react-native-sdk-test.git", :tag => "master" }
   s.source_files  = "ios/**/*.{h,m}"
   s.requires_arc = true
 

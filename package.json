@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-square-pos",
-  "version": "1.1.2",
+  "version": "1.0.0",
   "description": "React Native wrapper around Square's Android / iOS POS SDKs",
   "main": "index.js",
   "scripts": {
@@ -17,9 +16,7 @@
   ],
   "author": "Connor Bode <connor@matix.io>",
   "license": "MIT",
-  "homepage": "https://matix.io/react-native-square-pos/",
   "peerDependencies": {
-    "react-native": "^0.41.2"
-  },
-  "repository": "github:matix-io/react-native-square-pos"
+    "react-native": "^0.0.0-0 || 0.60 - 0.70 || 1000.0.0"
+  }
 }
